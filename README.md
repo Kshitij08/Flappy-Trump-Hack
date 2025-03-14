@@ -92,7 +92,7 @@ Commit history maintained using PlasticSCM. (Screenshot below.)
 ---
 
 ## 📹 Demo Video
-A short, narrated demonstration (max 5 minutes) showcasing gameplay, blockchain integrations, and core features will be available.
+- Demo Video: [link](https://drive.google.com/drive/folders/1goy7ctFF0VCWzFVI7FYu-jpQBtz77gkt?usp=drive_link)
 
 ---
 

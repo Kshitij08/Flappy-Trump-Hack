@@ -92,10 +92,11 @@ Commit history maintained using PlasticSCM. (Screenshot below.)
 ---
 
 ## 📹 Demo Video
-- Demo Video: [link](https://drive.google.com/drive/folders/1goy7ctFF0VCWzFVI7FYu-jpQBtz77gkt?usp=drive_link)
+- Demo Video: <a href="https://drive.google.com/drive/folders/1goy7ctFF0VCWzFVI7FYu-jpQBtz77gkt?usp=drive_link" target="_blank" rel="noopener noreferrer">link</a>
 
 ---
 
 ## 🌐 Live Demo
-- Check out Flappy Trump live [here](https://flappy-trump-beta.vercel.app/).
-- As we've paused the game for Break Monad, it'll show a temporary pause screen. Please press **"H"** on your keyboard to bypass it and access the Game.  
+- Check out Flappy Trump live <a href="https://flappy-trump-beta.vercel.app/" target="_blank" rel="noopener noreferrer">here</a>.
+- As we've paused the game for Break Monad, it'll show a temporary pause screen. Please press **"H"** on your keyboard to bypass it and access the Game.
+  

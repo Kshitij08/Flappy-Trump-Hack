@@ -97,5 +97,5 @@ A short, narrated demonstration (max 5 minutes) showcasing gameplay, blockchain 
 ---
 
 ## 🌐 Live Demo
-Check out Flappy Trump live [here](https://flappy-trump-beta.vercel.app/).
-As we've paused the game for Break Monad, it'll show a temporary pause screen. Please press **"H"** on your keyboard to bypass it and access the Game.  
+- Check out Flappy Trump live [here](https://flappy-trump-beta.vercel.app/).
+- As we've paused the game for Break Monad, it'll show a temporary pause screen. Please press **"H"** on your keyboard to bypass it and access the Game.  

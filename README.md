@@ -18,6 +18,8 @@ Flappy Trump comprises four primary components:
 
 3. **Wallet & Smart Contract Integration:**
    - Utilizes **Thirdweb** for robust wallet integration and streamlined smart contract interactions, providing gas-free and pop-up-free experiences for users.
+   - **$FLAP Contract Address:** `0x3d6A5699eeBeC63cDeCeDb625164Bd57424f13F3`
+   - **NFT Contract Address:** `0xb2570aB0c9e1dBac805C40E78121d61BFa4eEAaa`
 
 4. **Web Hosting & Asset Optimization:**
    - Deployed via **Vercel** for rapid delivery and automatic deployments.
